@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def fun():
-    return "serevre is runnning"
+    return "serevre is runnning in local"
